@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to turn off sorting for the Customization Window columns
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t191667/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to turn off sorting for columns that are placed in the Customization Window, i.e. for hidden columns. </p>
